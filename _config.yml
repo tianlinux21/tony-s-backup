@@ -73,6 +73,7 @@ deploy:
   type: git
   repo: git@github.com:tianlinux21/tianlinux21.github.io.git
   branch: master
+  message: 'create a new _post'
 
 backup:
   type: git
