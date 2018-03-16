@@ -1,7 +1,7 @@
 ---
 title: border double 快速实现三横线按钮
 tags:
-- css3
+- css
 categories:
 - 前端积累
 ---
